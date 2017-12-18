@@ -1,0 +1,108 @@
+body {
+
+		background-image: url("seoul.jpg");
+        background-size: cover;
+	}
+
+
+
+
+
+#Food1 {
+  
+  		text-align: left;
+  		font-size: 20px;
+        width: 400px;
+        height: 30%;
+        float: left;
+        padding: 10px;
+        margin-left: 10%;
+        background-image: url("spaghetti.jpg");
+		background-size: cover;
+		position: fixed;
+        
+}
+
+
+
+#Food2 {
+  
+  		text-align: left;
+  		font-size: 20px;
+        width: 400px;
+        height: 30%;
+        float: left;
+        padding: 10px;
+        margin-left: 40%;
+        background-image: url("pizza.jpg");
+		background-size: cover;
+		position: fixed;
+        
+}
+
+
+#Food3 {
+  
+  		text-align: left;
+  		font-size: 20px;
+        width: 400px;
+        height: 30%;
+        float: left;
+        padding: 10px;
+        margin-left: 70%;
+        background-image: url("chicken.jpg");
+		background-size: cover;
+		position: fixed;
+        
+}
+
+#Food4 {
+  
+  		text-align: left;
+  		font-size: 20px;
+        width: 400px;
+        height: 30%;
+        float: left;
+        padding: 10px;
+        margin-left: 10%;
+        margin-top: 20%;
+        background-image: url("donkatsu.jpg");
+		background-size: cover;
+		position: fixed;
+        
+}
+
+#Food5 {
+  
+  		text-align: left;
+  		font-size: 20px;
+        width: 400px;
+        height: 30%;
+        float: left;
+        padding: 10px;
+        margin-left: 40%;
+        margin-top: 20%;
+        background-image: url("salad.jpg");
+		background-size: cover;
+		position: fixed;
+        
+}
+ 
+
+#Food6 {
+  
+  		text-align: left;
+  		font-size: 20px;
+        width: 400px;
+        height: 30%;
+        float: left;
+        padding: 10px;
+        margin-left: 70%;
+        margin-top: 20%;
+        background-image: url("steak.jpg");
+		background-size: cover;
+		position: fixed;
+        
+}
+ 
+ 
